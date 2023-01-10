@@ -14,6 +14,8 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+     - [🛠 Built With](#built-with)
+     - [🚀 Live Demo](#live-demo)
 - [👥 Authors](#authors)
 - [📝 License](#license)
 
@@ -23,9 +25,16 @@
 
 > A simple project to demonstrate the GitHub flow at Microverse.
 
-**Hello Microverse** is a web page.
+**Hello Microverse** is a simple web page that says Hello to you.
+
+## 🛠 Built With <a name="built-with">HTML & CSS</a>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo">Comming Soon</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- AUTHORS -->
 
